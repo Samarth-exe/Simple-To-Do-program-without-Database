@@ -20,3 +20,6 @@ Install The library: pyinstaller using pip (pip install pyinstaller).
 
 
 Now The EXE file is ready to run on any computer even without requiring Python Interpreter Installed!
+
+Extra:
+Try to use speech_recognition library to input the item names just by speaking
