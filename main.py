@@ -1,10 +1,4 @@
 import pyttsx3 
-import os
-
-
-
-current_path = os.getcwd()
-
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
