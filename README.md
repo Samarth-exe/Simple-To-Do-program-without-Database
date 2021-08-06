@@ -1,4 +1,4 @@
-# Simple-To-Do-program-without-Database
+To-Do-program-without-Database
 
 Modules used- pyttsx3(needs to be installed, use: pip install pyttsx3).
 The To-Do list will be stored in a txt file on your computer(barely takes space).
